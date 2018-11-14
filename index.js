@@ -150,7 +150,7 @@ const styles = StyleSheet.create({
 });
 
 Player.propTypes = {
-    url: PropTypes.string.isRequired
+    //url: PropTypes.string.isRequired
 };
 
 export { Player, ReactNativeAudioStreaming }
